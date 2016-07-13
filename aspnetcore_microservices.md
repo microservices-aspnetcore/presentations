@@ -1,5 +1,5 @@
-<!-- $theme: gaia -->
- 
+<!-- $theme: default -->
+
 Building Microservices in ASP.NET Core
 ===
 This is just a placeholder strawman for collaboration. None of this should be taken seriously yet.
@@ -18,7 +18,7 @@ TBD
 * Add controller and Repository
 * Use Spring Cloud Config Server
 * Use Service Discovery
-* All on a Mac! 😱
+* All on a Mac! ðŸ˜±
 
 ---
 
@@ -106,15 +106,21 @@ TBD
 ---
 # External Configuration
 TBD
+
 * ASP.NET Core Configuration
 * Adding Config Server as Config Source
 * ?
+
+
+![](images/boots.jpg)
 
 ---
 # Service Discovery with Eureka
 TBD
 * jf
 * ?
+
+![](images/boots.jpg)
 
 ---
 # Q and A
